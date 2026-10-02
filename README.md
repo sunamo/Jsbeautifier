@@ -1,3 +1,7 @@
+## Short description
+
+Fork C# knihovny, která je portem js-beautify, formátovače JavaScriptu. Obsahuje třídu Beautifier s nastavením stylu závorek a odsazení a unit testy. Upstream je publikován i na NuGetu.
+
 Jsbeautifier
 ============
 
