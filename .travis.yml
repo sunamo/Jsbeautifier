@@ -1,5 +1,5 @@
 language: csharp
-solution: Jsbeautifier.sln
+solution: Jsbeautifier.slnx
 dotnet  : 3.1.101
 script  :
   - dotnet restore
